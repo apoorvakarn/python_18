@@ -7,6 +7,7 @@ Created on Tue Jan 16 12:52:47 2018 by Apoorva Karn"""
 #list
 x= [1,2,3]
 x
+x
 print(x)
 l=eval(input("enter a list"))
 l
